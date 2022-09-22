@@ -68,5 +68,6 @@ Technologies I am using:
 ### Status
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedahmedusman2&theme=dark&count_private=true&show_icons=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedahmedusman2&theme=dracula" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedahmedusman2&layout=compact&theme=dark&langs_count=50" />
-<img src="https://github.com/syedahmedusman2/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+
